@@ -1,1 +1,1 @@
-# blog ku
+# blog hugo ku
